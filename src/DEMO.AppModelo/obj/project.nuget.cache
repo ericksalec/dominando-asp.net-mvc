@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WnqR9HcngX8UWJ7L+YKMrjvp3yx5nWfaUhiD8gClp28fU5neBHiRYzvwk1v4tuDcRUtrRktO856ZI3iMHs/aSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Erick\\Source\\Repos\\dominando-asp.net-mvc\\src\\DEMO.AppModelo\\DEMO.AppModelo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erick\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512"
+  ],
+  "logs": []
+}
